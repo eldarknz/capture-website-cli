@@ -96,3 +96,7 @@ $ capture-website --help
 
 - [capture-website](https://github.com/sindresorhus/capture-website) - API for this module
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - A different take on screenshotting websites
+
+## Useful links
+
+https://maheshwaghmare.com/how-to-capture-website-screenshot-with-cli-command-line-interface/
